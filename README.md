@@ -11,3 +11,7 @@ In the context of reasoning and decision-making, Multiplex CoT (Chain of Thought
 ## Quickly start
 
 Run `Multiplex_CoT.ipynb`.
+
+## How to use
+
+See `example.py`.
